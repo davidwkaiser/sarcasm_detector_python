@@ -12,8 +12,8 @@ The Python version of this now works. I tested it using Logistic Regression, Ran
 You can see the original project [HERE](https://github.com/davidwkaiser/sarcasm_detector)
 
 To Do:
-- ~~Get it working in Python.  ~~
-- ~~Test multiple classifiers.  ~~
+- ~~Get it working in Python.~~. 
+- ~~Test multiple classifiers.~~. 
 - Create a web app that takes a sentence and returns a prediction. 
 - Deploy to the web (Heroku? Colab?). 
 
