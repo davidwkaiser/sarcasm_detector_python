@@ -1,4 +1,4 @@
-# Sarcasm Detector
+# Sarcasm Detector Model
 A model created to classify a text as sarcastic or not.
 
 Creates a Document Text Matrix (DTM), on which a clasification model is trained to label a comment as sarcastic or not.
