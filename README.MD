@@ -17,3 +17,5 @@ To Do:
 - ~~Create a web app that takes a sentence and returns a prediction.~~.  
 - ~~Deploy to the web (Heroku? Colab?)~~.   
 
+You can see the deployed app [HERE](https://stormy-brushlands-12264.herokuapp.com/texts/)
+You can see the repo for the deployed app [HERE](https://github.com/davidwkaiser/sarcasm_detector_python_app)
